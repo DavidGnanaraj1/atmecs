@@ -12,7 +12,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.BeforeTest;
 
 import com.atmecs.practo.helpers.FilePath;
-import com.atmecs.practo.utils.Log4j;
+import com.atmecs.practo.utils.LogReport;
 import com.atmecs.practo.utils.ReadPropertiesFile;
 
 public class ChoosingBrowser {
@@ -22,8 +22,8 @@ public class ChoosingBrowser {
 		ReadPropertiesFile read = new ReadPropertiesFile();
 		read.loadProperty(FilePath.CONFIG_FILE);
 		String browser = read.getData("browser");
-	    Log4j log = new Log4j();
-		read.loadProperty(FilePath.CONFIG_FILE);
+	    LogReport log = new LogReport();
+	//	read.loadProperty(FilePath.CONFIG_FILE);
 		String url =read.getData("url");
 		
 		switch (browser) {

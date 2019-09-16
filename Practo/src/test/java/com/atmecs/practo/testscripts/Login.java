@@ -13,6 +13,7 @@ import org.testng.log4testng.Logger;
 
 import com.atmecs.practo.helpers.FilePath;
 import com.atmecs.practo.testbase.ChoosingBrowser;
+import com.atmecs.practo.utils.LogReport;
 import com.atmecs.practo.utils.ReadExcelFile;
 import com.atmecs.practo.utils.ReadPropertiesFile;
 
@@ -20,10 +21,10 @@ public class Login extends ChoosingBrowser {
 
 		ReadPropertiesFile readprop = new ReadPropertiesFile();
 	    ReadExcelFile read = new ReadExcelFile();
-	
-	    Logger log = Logger.getLogger(Login.class);
+	    LogReport log =new LogReport();
+	 //   Logger log = Logger.getLogger(Login.class);
 
-@Test(priority = 0)
+@Test(priority = 0)//,dataProvider="login",dataProviderClass=DataProvider.class)
 public void verifyHomePage() throws IOException, InterruptedException {
 		ChoosingBrowser.browserInvoke();
         log.info("opening website");
@@ -43,7 +44,8 @@ public void verifyHomePage() throws IOException, InterruptedException {
 		
         WebElement psswrdtxtbox = driver.findElement(By.xpath(readprop.getData("loc.login.passwrdtxtbox")));
 		psswrdtxtbox.click();
-		psswrdtxtbox.sendKeys(read.getData(0, 0, 1));
+		Click.enterValues("loc.login.passwrdtxtbox",read.getData(0, 0, 1));
+		//psswrdtxtbox.sendKeys(read.getData(0, 0, 1));
 
 		Click.clickElements("loc.login.submitlogin");
 		
@@ -72,7 +74,8 @@ public void verifyPainrelfPage() throws IOException, InterruptedException {
 		String exptdTitle = readprop.getData("painreliefpagetitle");
 		String actualTitle = driver.getTitle();
 		Assert.assertEquals(actualTitle, exptdTitle);
-		Thread.sleep(3000);
+		WebDriverWait wait = new WebDriverWait(driver, 20);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(readprop.getData("loc.login.emailtxtbox")))).click();
 	}
 
 @Test(priority = 2)

@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.atmecs</groupId>
-	<artifactId>Openmrs</artifactId>
+	<artifactId>Practo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Openmrs</name>
+	<name>Practo</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

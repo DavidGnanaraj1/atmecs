@@ -5,7 +5,7 @@
     <classes>
       <class name="com.atmecs.practo.testscripts.VerifyCart">
         <methods>
-          <include name="verifyPdtinCart"/>
+          <include name="verifyPainrelfPage"/>
         </methods>
       </class> <!-- com.atmecs.practo.testscripts.VerifyCart -->
     </classes>

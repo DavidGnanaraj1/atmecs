@@ -19,14 +19,14 @@ public class ReadExcelFile {
 		workbook = new XSSFWorkbook(fileinput);
 	}
 
-	public int rowCounting(int sheetnum, int rownumber) {
-		sheet = workbook.getSheetAt(sheetnum);
+	public int rowCounting(int sheetnum) {
+	//	sheet = workbook.getSheetAt(sheetnum);
 		int totalrow = workbook.getSheetAt(sheetnum).getLastRowNum();
 		return totalrow;
 	}
 
-	public int columnCounting(int sheetnum) {
-		int totalcolumn = workbook.getSheetAt(sheetnum).getRow(0).getLastCellNum();
+	public int columnCounting(int sheetnum,int rownum) {
+		int totalcolumn = workbook.getSheetAt(sheetnum).getRow(rownum).getLastCellNum();
 		return totalcolumn;
 	}
 

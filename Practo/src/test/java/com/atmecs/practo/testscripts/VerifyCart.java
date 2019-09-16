@@ -5,19 +5,26 @@ import java.io.IOException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import org.testng.log4testng.Logger;
 
 import com.atmecs.practo.helpers.FilePath;
+import com.atmecs.practo.utils.LogReport;
 import com.atmecs.practo.utils.ReadPropertiesFile;
 
 public class VerifyCart extends Login{
 
 	    ReadPropertiesFile readprop= new ReadPropertiesFile();
-	
-@Test(priority=3)
-public void verifyPdtinCart() throws IOException, InterruptedException {
-		ReadPropertiesFile readprop= new ReadPropertiesFile();
-	    readprop.loadProperty(FilePath.LOCATORS_FILE);
+	    // Logger log =Logger.getLogger(Login.class);
+	   // LogReport log =new LogReport();
+	    
+	    
+	    @Test(priority=3)
+	    public void verifyPdtinCart() throws IOException, InterruptedException {
+		
+	     ReadPropertiesFile readprop= new ReadPropertiesFile();
+	     readprop.loadProperty(FilePath.LOCATORS_FILE);
 		
 	     WebElement fstpdtvol = driver.findElement(By.xpath(readprop.getData(("loc.verifyfirstpdt.size"))));
 	     String fstpdtvol1 = fstpdtvol.getText();
@@ -31,7 +38,7 @@ public void verifyPdtinCart() throws IOException, InterruptedException {
 		 String fstpdtcost1 = fstpdtcost.getText();
 		 Assert.assertEquals(fstpdtcost1, "30.4");
 
-		 System.out.println("First Medicine details");
+		 log.info("First Medicine details");
 		 
 	
 		 String secmedwgt =  driver.findElement(By.xpath(readprop.getData("loc.verifysecpdt.size"))).getText();
@@ -45,14 +52,14 @@ public void verifyPdtinCart() throws IOException, InterruptedException {
 	     String expsecimg = readprop.getData("loc.verifydetl.expimgsec");	    
 	     Assert.assertEquals(secmedpze,"89");
 	     
-	     System.out.println("Second Medicine details Verified");
+	     log.info("Second Medicine details Verified");
 	     
 	     WebElement totpdtcost = driver.findElement(By.xpath(readprop.getData(("loc.verifytotprz"))));
 	
 		 String totpdtcost1=totpdtcost.getText();
 	
 		 Assert.assertEquals(totpdtcost1,"₹238.8");	
-	     System.out.println("Total Prize verified");
+	     log.info("Total Prize verified");
 	
 	}
 }
