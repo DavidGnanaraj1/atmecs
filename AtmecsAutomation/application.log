@@ -1,0 +1,537 @@
+2019-09-25 19:30:33,995  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:30:37,214  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:30:39,309  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:30:44,207  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:30:47,524  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:30:51,733  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:30:52,590 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:30:52,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:30:52,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:30:52,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:30:52,609 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:36:18,656  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:36:24,033  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:36:27,078  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:36:32,820 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:36:32,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:36:32,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:36:32,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:36:32,833 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:37:22,371  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:37:24,999  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:37:26,719  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:37:51,943  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:37:54,160  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:37:56,125  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:38:19,940 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:38:19,943 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:38:19,946 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:38:19,947 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:38:19,948 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:40:15,199  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:40:17,583  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:40:19,225  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:40:44,017  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:40:46,517  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:40:48,035  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:41:10,617 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:41:10,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:41:10,624 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:41:10,625 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:41:10,626 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:54:06,140  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:54:09,511  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:54:11,350  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:54:36,461  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:54:39,366  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:54:41,321  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:54:51,581 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:54:51,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:54:51,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:54:51,591 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:54:51,592 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:56:10,534  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:56:13,076  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:56:15,240  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:56:40,680  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:56:43,289  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:56:46,846  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:57:09,355 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:57:09,358 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:57:09,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:57:09,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:57:09,364 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 19:58:39,856  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:58:43,047  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:58:45,854  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:59:11,023  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 19:59:13,318  INFO [main] LogReport:22 - Application is open
+2019-09-25 19:59:14,700  INFO [main] LogReport:22 - Login clicked
+2019-09-25 19:59:37,482 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 19:59:37,484 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 19:59:37,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 19:59:37,492 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 19:59:37,492 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-25 20:13:47,982  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 20:13:51,501  INFO [main] LogReport:22 - Application is open
+2019-09-25 20:13:53,208  INFO [main] LogReport:22 - Login clicked
+2019-09-25 20:14:18,851  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-25 20:14:21,929  INFO [main] LogReport:22 - Application is open
+2019-09-25 20:14:23,794  INFO [main] LogReport:22 - Login clicked
+2019-09-25 20:14:47,045 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-25 20:14:47,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-25 20:14:47,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-25 20:14:47,053 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-25 20:14:47,054 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:06:58,969  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 09:07:02,072  INFO [main] LogReport:22 - Application is open
+2019-09-26 09:07:04,081  INFO [main] LogReport:22 - Login clicked
+2019-09-26 09:07:11,372 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:07:11,375 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:07:11,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:07:11,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:07:11,385 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:07:33,612  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 09:07:35,993  INFO [main] LogReport:22 - Application is open
+2019-09-26 09:07:37,697  INFO [main] LogReport:22 - Login clicked
+2019-09-26 09:08:02,753  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 09:08:05,983  INFO [main] LogReport:22 - Application is open
+2019-09-26 09:08:07,695  INFO [main] LogReport:22 - Login clicked
+2019-09-26 09:08:30,087 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:08:30,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:08:30,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:08:30,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:08:30,104 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:42:08,842 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:42:08,849 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:42:08,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:42:08,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:42:08,855 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:44:59,303 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:44:59,310 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:44:59,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:44:59,316 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:44:59,317 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:45:48,553 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:45:48,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:45:48,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:45:48,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:45:48,563 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:48:06,748 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:48:06,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:48:06,756 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:48:06,758 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:48:06,759 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:50:33,022 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:50:33,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:50:33,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:50:33,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:50:33,031 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:52:17,249 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:52:17,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:52:17,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:52:17,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:52:17,257 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 09:57:18,307  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 09:57:21,504  INFO [main] LogReport:22 - Application is open
+2019-09-26 09:57:23,401  INFO [main] LogReport:22 - Login clicked
+2019-09-26 09:57:28,054  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 09:57:32,197  INFO [main] LogReport:22 - Application is open
+2019-09-26 09:57:33,712  INFO [main] LogReport:22 - Login clicked
+2019-09-26 09:57:35,032 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 09:57:35,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 09:57:35,419 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 09:57:35,421 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 09:57:35,431 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:17:25,961 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:17:25,961 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:17:25,961 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:17:25,961 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:17:25,961 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:20:02,264 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:20:02,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:20:02,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:20:02,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:20:02,280 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:27:27,379 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:27:27,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:27:27,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:27:27,379 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:27:27,379 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:37:21,634 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:37:21,643 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:37:21,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:37:21,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:37:21,648 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:38:00,858 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:38:00,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:38:00,864 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:38:00,865 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:38:00,866 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:39:41,276 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:39:41,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:39:41,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:39:41,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:39:41,288 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:41:41,376  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 11:41:47,867  INFO [main] LogReport:22 - Application is open
+2019-09-26 11:41:49,294 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:41:49,296 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:41:49,298 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:41:49,299 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:41:49,299 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:42:41,353 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:42:41,359 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:42:41,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:42:41,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:42:41,361 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:48:08,304 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:48:08,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:48:08,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:48:08,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:48:08,320 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 11:59:15,554  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 11:59:22,550  INFO [main] LogReport:22 - Application is open
+2019-09-26 11:59:24,019 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 11:59:24,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 11:59:24,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 11:59:24,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 11:59:24,028 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:00:04,511  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:00:11,812  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:00:13,183 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:00:13,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:00:13,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:00:13,192 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:00:13,192 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:00:52,968  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:00:59,454  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:01:04,585 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:01:04,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:01:04,590 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:01:04,592 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:01:04,592 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:07:49,110 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:07:49,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:07:49,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:07:49,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:07:49,117 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:38:28,450  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:38:35,877  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:38:40,639 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:38:40,639 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:38:40,639 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:38:40,639 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:38:40,639 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:40:54,396  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:41:01,469  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:41:07,535 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:41:07,538 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:41:07,541 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:41:07,542 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:41:07,543 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:50:10,607  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:50:17,174  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:50:21,677 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:50:21,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:50:21,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:50:21,693 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:50:21,693 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 12:52:05,922  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 12:52:13,603  INFO [main] LogReport:22 - Application is open
+2019-09-26 12:52:18,545 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 12:52:18,545 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 12:52:18,545 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 12:52:18,545 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 12:52:18,545 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:27:30,557  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:27:37,591  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:27:43,948 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:27:43,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:27:43,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:27:43,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:27:43,964 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:29:38,097  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:29:46,184  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:29:49,502 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:29:49,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:29:49,506 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:29:49,508 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:29:49,508 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:31:15,724  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:31:22,788  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:31:27,368 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:31:27,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:31:27,374 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:31:27,375 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:31:27,376 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:38:42,990  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:38:50,130  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:38:54,490 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:38:54,492 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:38:54,494 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:38:54,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:38:54,496 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:43:39,359  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:43:47,877  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:43:54,488 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:43:54,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:43:54,492 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:43:54,494 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:43:54,495 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 13:45:23,444  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 13:45:32,151  INFO [main] LogReport:22 - Application is open
+2019-09-26 13:45:39,562 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 13:45:39,564 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 13:45:39,567 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 13:45:39,569 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 13:45:39,570 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 15:51:02,583  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 15:51:11,345  INFO [main] LogReport:22 - Application is open
+2019-09-26 15:51:19,775 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 15:51:19,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 15:51:19,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 15:51:19,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 15:51:19,785 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:02:59,555  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:03:09,554  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:03:20,834  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:03:21,435 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:03:21,435 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:03:21,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:03:21,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:03:21,451 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:05:46,789  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:05:57,258  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:06:07,888  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:06:08,419 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:06:08,419 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:06:08,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:06:08,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:06:08,423 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:09:58,847  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:10:08,929  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:10:18,147  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:10:18,701 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:10:18,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:10:18,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:10:18,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:10:18,701 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:20:34,636  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:20:42,214  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:20:50,421  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:20:50,990 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:20:51,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:20:51,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:20:51,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:20:51,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:22:09,094  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:22:16,736  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:22:24,703  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:22:25,578 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:22:25,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:22:25,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:22:25,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:22:25,594 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:23:23,092  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:23:30,835  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:23:39,706  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:23:45,383  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:23:45,890 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:23:45,890 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:23:45,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:23:45,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:23:45,905 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:26:02,832  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:26:10,916  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:26:20,255  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:26:26,374  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:26:26,879 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:26:26,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:26:26,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:26:26,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:26:26,885 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:28:22,845  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:28:32,452  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:28:40,826  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:28:47,265  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:28:48,491  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:28:49,020 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:28:49,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:28:49,024 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:28:49,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:28:49,027 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:31:22,887  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:31:30,743  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:31:38,338  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:31:45,593  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:31:46,815  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:31:47,986  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:32:08,998 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:32:08,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:32:08,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:32:08,998 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:32:08,998 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:34:30,286  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:34:38,116  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:34:46,152  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:34:52,042  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:34:53,229  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:34:54,347  INFO [main] LogReport:22 - Insights Link footers verified
+2019-09-26 17:35:15,350 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:35:15,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:35:15,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:35:15,366 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:35:15,366 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:36:29,492  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:36:37,742  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:36:46,615  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:36:56,456  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:36:57,698  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:36:58,865  INFO [main] LogReport:22 - Insights Link footers verified
+2019-09-26 17:37:19,581 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:37:19,583 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:37:19,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:37:19,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:37:19,588 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 17:39:06,610  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 17:39:14,437  INFO [main] LogReport:22 - Application is open
+2019-09-26 17:39:22,292  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 17:39:28,530  INFO [main] LogReport:22 - Partners Link footers verified
+2019-09-26 17:39:29,865  INFO [main] LogReport:22 - Media Link footers verified
+2019-09-26 17:39:31,021 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 17:39:31,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 17:39:31,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 17:39:31,032 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 17:39:31,032 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:09:49,902  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:09:58,041  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:12:50,778  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:12:59,143  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:13:26,819 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:13:26,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:13:26,835 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:13:26,835 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:13:26,835 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:14:56,977  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:15:05,404  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:15:30,826 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:15:30,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:15:30,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:15:30,841 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:15:30,841 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:16:39,765  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:16:47,602  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:17:02,434 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:17:02,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:17:02,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:17:02,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:17:02,437 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:23:05,795  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:23:13,960  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:23:15,281 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:23:15,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:23:15,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:23:15,290 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:23:15,291 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:25:51,319  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:26:00,397  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:26:23,876 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:26:23,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:26:23,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:26:23,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:26:23,881 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:27:38,806  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:27:46,990  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:28:12,111 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:28:12,113 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:28:12,114 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:28:12,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:28:12,116 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:30:14,097  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:30:22,435  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:30:56,382 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:30:56,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:30:56,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:30:56,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:30:56,391 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:32:38,286  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:32:47,079  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:32:56,242  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:33:00,736 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:33:00,737 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:33:00,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:33:00,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:33:00,740 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:33:57,975  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:34:05,925  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:34:13,888  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:34:17,773 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:34:17,775 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:34:17,779 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:34:17,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:34:17,780 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:35:08,647  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:35:16,349  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:35:24,651  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:35:28,179 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-26 18:35:28,182 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-26 18:35:28,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-26 18:35:28,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-26 18:35:28,192 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-26 18:37:36,965  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:37:45,202  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:38:37,260  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:38:45,638  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:39:43,703  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:39:51,505  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:41:54,669  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:42:02,749  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:43:17,151  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:43:25,153  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:44:42,931  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:44:51,060  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:46:37,367  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:46:45,750  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:49:08,282  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:49:16,959  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:49:50,487  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:49:59,180  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:51:01,661  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:51:11,163  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:51:19,202  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:52:01,297  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:52:09,933  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:53:28,645  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:53:37,698  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:53:45,817  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:56:27,928  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:56:36,476  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:56:44,811  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 18:58:43,740  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 18:58:52,768  INFO [main] LogReport:22 - Application is open
+2019-09-26 18:59:01,406  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:00:39,060  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:00:48,027  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:00:57,068  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:01:43,297  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:01:44,681  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:02:17,432  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:02:26,082  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:03:34,835  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:03:43,755  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:03:52,015  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:07:26,608  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:07:34,463  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:07:42,026  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:09:18,764  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:09:26,853  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:09:34,995  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:10:16,943  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:10:24,582  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:10:33,221  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:11:44,074  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:11:52,372  INFO [main] LogReport:22 - Application is open
+2019-09-26 19:12:00,911  INFO [main] LogReport:22 - Services Link footers verified
+2019-09-26 19:14:49,477  INFO [main] LogReport:22 - Chrome browser opens
+2019-09-26 19:14:57,488  INFO [main] LogReport:22 - Application is open
