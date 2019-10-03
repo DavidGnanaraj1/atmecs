@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59426" started-at="2019-10-03T15:34:44Z" finished-at="2019-10-03T15:35:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59426" started-at="2019-10-03T15:34:44Z" finished-at="2019-10-03T15:35:44Z">
+      <class name="com.atmecs.AtmecsProject2.PageVerification">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af]" name="startReports" is-config="true" duration-ms="160" started-at="2019-10-03T15:34:44Z" finished-at="2019-10-03T15:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReports -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af]" name="initializeBrowser" is-config="true" duration-ms="13990" started-at="2019-10-03T15:34:44Z" finished-at="2019-10-03T15:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="goToReadMore()[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af]" name="goToReadMore" duration-ms="44956" started-at="2019-10-03T15:34:58Z" finished-at="2019-10-03T15:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToReadMore -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af]" name="getReport" is-config="true" duration-ms="5" started-at="2019-10-03T15:35:43Z" finished-at="2019-10-03T15:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=goToReadMore status=SUCCESS method=PageVerification.goToReadMore()[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.AtmecsProject2.PageVerification@4501b7af]" name="getClose" is-config="true" duration-ms="291" started-at="2019-10-03T15:35:43Z" finished-at="2019-10-03T15:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClose -->
+      </class> <!-- com.atmecs.AtmecsProject2.PageVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

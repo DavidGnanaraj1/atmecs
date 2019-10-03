@@ -1,0 +1,69 @@
+2019-10-03 20:21:03,783  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:21:13,696  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:21:29,175  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:29,292  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:34,103  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:34,214  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:39,055  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:39,161  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:48,233  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:48,381  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:53,966  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:21:54,064  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:22:48,970  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:22:57,977  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:23:15,177  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:23:20,684  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:23:26,056  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:23:34,126  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:23:39,212  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:29:01,029  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:29:10,963  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:29:26,271  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:29:31,194  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:29:36,286  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:29:44,423  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:29:49,536  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:45:02,597  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:45:12,233  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:45:28,573  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:45:34,958  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:45:40,149  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:45:48,341  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:45:53,741  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:52:06,707  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:52:16,575  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:52:32,621  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:52:38,140  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:52:43,166  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:52:51,092  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:52:56,590  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:53:00,552 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:53:00,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:53:00,560 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:53:00,563 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:53:00,564 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 20:56:30,857  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 20:56:39,480  INFO [main] LogReport:22 - Application is open
+2019-10-03 20:56:54,221  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:57:00,790  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:57:07,927  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:57:16,102  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:57:21,014  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 20:57:24,651 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 20:57:24,652 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 20:57:24,654 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 20:57:24,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 20:57:24,656 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 21:04:48,538  INFO [main] LogReport:22 - Chrome browser opens
+2019-10-03 21:04:57,530  INFO [main] LogReport:22 - Application is open
+2019-10-03 21:05:15,591  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 21:05:21,212  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 21:05:26,457  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 21:05:34,866  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 21:05:39,927  INFO [main] LogReport:22 - Breadcrumb verified
+2019-10-03 21:05:43,776 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 21:05:43,778 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 21:05:43,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 21:05:43,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 21:05:43,784 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
