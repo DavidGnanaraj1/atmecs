@@ -1,0 +1,45 @@
+2019-10-09 20:40:32,418  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:40:37,060  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:40:40,912  INFO [main] LogReport:21 - Games validated
+2019-10-09 20:40:42,331  INFO [main] LogReport:21 - product unavailability message verified
+2019-10-09 20:40:45,131  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:40:50,193  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:41:10,523  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:41:10,524  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:41:10,525  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:41:19,739  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-09 20:41:19,740  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-09 20:41:23,081  INFO [main] LogReport:21 - Not in Oldest first
+2019-10-09 20:41:23,082  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-09 20:41:23,082  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-09 20:41:26,302  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-09 20:41:26,302  INFO [main] LogReport:21 - Not in Most Recent first
+2019-10-09 20:41:26,304  INFO [main] LogReport:21 - Not in Most Recent first
+2019-10-09 20:41:28,442 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-09 20:41:28,445 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-09 20:41:28,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-09 20:41:28,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-09 20:41:28,452 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-09 20:44:42,134  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:44:46,776  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:45:26,727  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:45:31,408  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:46:05,666  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:46:10,241  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:48:26,041  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:48:31,188  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:49:13,749  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:49:18,707  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:55:06,315  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-09 20:55:10,646  INFO [main] LogReport:21 - Application is open
+2019-10-09 20:55:29,851  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:55:29,852  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:55:29,852  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-09 20:55:32,184  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-09 20:55:32,185  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-09 20:55:37,215  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-09 20:55:37,216  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-09 20:55:37,217  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-09 20:55:42,680  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-09 20:55:42,681  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-09 20:55:42,682  INFO [main] LogReport:21 - Arranged in Most Recent fist

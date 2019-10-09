@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60914" started-at="2019-10-09T15:10:27Z" finished-at="2019-10-09T15:11:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60914" started-at="2019-10-09T15:10:27Z" finished-at="2019-10-09T15:11:28Z">
+      <class name="com.atmecs.Konakart_Automation.HeroImage">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.Konakart_Automation.HeroImage@5b275dab]" name="initializeBrowser" is-config="true" duration-ms="9213" started-at="2019-10-09T15:10:42Z" finished-at="2019-10-09T15:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="HeroImage()[pri:0, instance:com.atmecs.Konakart_Automation.HeroImage@5b275dab]" name="HeroImage" duration-ms="36846" started-at="2019-10-09T15:10:51Z" finished-at="2019-10-09T15:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HeroImage -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.Konakart_Automation.HeroImage@5b275dab]" name="getReport" is-config="true" duration-ms="1" started-at="2019-10-09T15:11:28Z" finished-at="2019-10-09T15:11:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HeroImage status=SUCCESS method=HeroImage.HeroImage()[pri:0, instance:com.atmecs.Konakart_Automation.HeroImage@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+      </class> <!-- com.atmecs.Konakart_Automation.HeroImage -->
+      <class name="com.atmecs.Konakart_Automation.SearchValidation">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2]" name="startReports" is-config="true" duration-ms="168" started-at="2019-10-09T15:10:27Z" finished-at="2019-10-09T15:10:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReports -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2]" name="initializeBrowser" is-config="true" duration-ms="10148" started-at="2019-10-09T15:10:28Z" finished-at="2019-10-09T15:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="searchValidation()[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2]" name="searchValidation" duration-ms="4090" started-at="2019-10-09T15:10:38Z" finished-at="2019-10-09T15:10:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidation -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2]" name="getReport" is-config="true" duration-ms="4" started-at="2019-10-09T15:10:42Z" finished-at="2019-10-09T15:10:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchValidation status=SUCCESS method=SearchValidation.searchValidation()[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.Konakart_Automation.SearchValidation@523884b2]" name="getClose" is-config="true" duration-ms="413" started-at="2019-10-09T15:11:28Z" finished-at="2019-10-09T15:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClose -->
+      </class> <!-- com.atmecs.Konakart_Automation.SearchValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
