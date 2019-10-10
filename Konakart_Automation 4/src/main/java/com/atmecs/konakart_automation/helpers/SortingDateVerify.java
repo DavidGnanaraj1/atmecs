@@ -46,22 +46,22 @@ public void sortingDate() throws IOException, InterruptedException, ParseExcepti
 			words=elemtext.split("\\s");
 			int wordint=Integer.parseInt(words[1]);
 			Date date1;
-			SimpleDateFormat input = new SimpleDateFormat("dd MMMM yyyy");
+			SimpleDateFormat input = new SimpleDateFormat("dd/MMMM/yyyy");
 			SimpleDateFormat output;
 			
-			if(wordint<10) {
+			//if(wordint<10) {
 		
-				String elemtext12= words[1]+" "+words[2]+" "+words[3];
+				String elemtext12= words[1]+"/"+words[2]+"/"+words[3];
 				output= new SimpleDateFormat("yyyy-MM-dd");
 				date1 = input.parse(elemtext12);
-			}
+			//}
 			
 			
-			 else { String elemtext11= words[1]+" "+words[2]+" "+words[3]; output= new
-			 SimpleDateFormat("yyyy-MM-dd"); date1 = input.parse(elemtext11);
-			 
-			 }
-			 
+//			 else { String elemtext11= words[1]+" "+words[2]+" "+words[3]; output= new
+//			 SimpleDateFormat("yyyy-MM-dd"); date1 = input.parse(elemtext11);
+//			 
+//			 }
+//			 
 
 			String inputarr[]=new String [10];
 		

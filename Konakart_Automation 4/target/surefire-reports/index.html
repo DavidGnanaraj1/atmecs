@@ -128,30 +128,22 @@
                   <a name="searchValidation">
                   </a> <!-- searchValidation -->
                   <span class="method-name">searchValidation</span>
-                  <div class="stack-trace">org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //select[@name=&apos;orderBy&apos;])[1] because of the following error:
-SyntaxError: Failed to execute &apos;evaluate&apos; on &apos;Document&apos;: The string &apos;//select[@name=&apos;orderBy&apos;])[1]&apos; is not a valid XPath expression.
-  (Session info: chrome=77.0.3865.90)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+                  <div class="stack-trace">org.openqa.selenium.NoSuchSessionException: invalid session id
 Build info: version: &apos;4.0.0-alpha-2&apos;, revision: &apos;f148142cf8&apos;, time: &apos;2019-07-01T20:55:26&apos;
 System info: host: &apos;ATMECSINDT-046&apos;, ip: &apos;50.50.50.254&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\DAVID~1.EAS\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 8ff08bcbad546fbd00cf30124056aaf1
-*** Element info: {Using=xpath, value=//select[@name=&apos;orderBy&apos;])[1]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\DAVID~1.EAS\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:52972}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b77b086e3c3b3c0be6552f018a529d58
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-	at com.atmecs.konakart_automation.helpers.SortingVerification.sortingVerify(SortingVerification.java:64)
-	at com.atmecs.Konakart_Automation.HeroImageCoffee.heroImage(HeroImageCoffee.java:72)
-	at com.atmecs.Konakart_Automation.HeroImage.HeroImage(HeroImage.java:29)
-	at com.atmecs.Konakart_Automation.SearchValidation.searchValidation(SearchValidation.java:54)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:633)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:462)
+	at com.atmecs.Konakart_Automation.SearchValidation.searchValidation(SearchValidation.java:56)
 ... Removed 33 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
@@ -214,12 +206,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'searchValidation')
 data.setCell(0, 2, 'com.atmecs.Konakart_Automation.SearchValidation')
-data.setCell(0, 3, 38685);
+data.setCell(0, 3, 45963);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 38 seconds</span>
+              <span class="suite-total-time">Total running time: 45 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -252,21 +244,23 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="configuration-method before">
                 <span class="method-name">initializeBrowser</span>
-                <span class="method-start">176 ms</span>
+                <span class="method-start">177 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">searchValidation</span>
-                <span class="method-start">9980 ms</span>
+                <span class="method-start">11039 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">getReport([TestResult name=searchValidation status=FAILURE method=SearchValidation.searchValidation()[pri:0, i...)</span>
-                <span class="method-start">48679 ms</span>
+                <span class="method-start">57013 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-test after">
                 <span class="method-name">getClose</span>
-                <span class="method-start">49184 ms</span>
+                <span class="method-start">57031 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

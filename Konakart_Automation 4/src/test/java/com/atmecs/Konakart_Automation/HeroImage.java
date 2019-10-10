@@ -29,6 +29,7 @@ public class HeroImage extends BrowserInvoke {
     	herocoffee.heroImage();
     
     }
+    
     	else
     	{
     		HeroImageScenario heroscenario =new HeroImageScenario();
