@@ -1,0 +1,80 @@
+2019-10-10 17:07:03,091  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-10 17:07:08,514  INFO [main] LogReport:21 - Application is open
+2019-10-10 17:07:12,671  INFO [main] LogReport:21 - Games validated
+2019-10-10 17:07:14,082  INFO [main] LogReport:21 - product unavailability message verified
+2019-10-10 17:07:41,127  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:07:41,128  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:07:41,128  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:07:43,340  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:07:43,341  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:07:48,444  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:07:48,445  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:07:48,445  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:07:53,542  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:07:53,543  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:07:53,544  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:07:56,056 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-10 17:07:56,059 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-10 17:07:56,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-10 17:07:56,061 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-10 17:07:56,062 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-10 17:11:54,181  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-10 17:11:59,199  INFO [main] LogReport:21 - Application is open
+2019-10-10 17:12:03,209  INFO [main] LogReport:21 - Games validated
+2019-10-10 17:12:04,539  INFO [main] LogReport:21 - product unavailability message verified
+2019-10-10 17:12:31,797  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:12:31,798  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:12:31,798  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:12:34,144  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:12:34,144  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:12:39,599  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:12:39,600  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:12:39,600  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:12:44,792  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:12:44,793  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:12:44,794  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:12:47,121 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-10 17:12:47,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-10 17:12:47,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-10 17:12:47,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-10 17:12:47,126 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-10 17:16:23,200  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-10 17:16:28,085  INFO [main] LogReport:21 - Application is open
+2019-10-10 17:16:31,708  INFO [main] LogReport:21 - Games validated
+2019-10-10 17:16:33,068  INFO [main] LogReport:21 - product unavailability message verified
+2019-10-10 17:17:01,908  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:17:01,909  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:17:01,910  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:17:05,133  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:17:05,134  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:17:10,556  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:17:10,557  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:17:10,558  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:17:15,612  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:17:15,613  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:17:15,613  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:17:17,926 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-10 17:17:17,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-10 17:17:17,931 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-10 17:17:17,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-10 17:17:17,934 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-10 17:18:16,742  INFO [main] LogReport:21 - Chrome browser opens
+2019-10-10 17:18:22,534  INFO [main] LogReport:21 - Application is open
+2019-10-10 17:18:26,571  INFO [main] LogReport:21 - Games validated
+2019-10-10 17:18:28,152  INFO [main] LogReport:21 - product unavailability message verified
+2019-10-10 17:18:54,603  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:18:54,604  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:18:54,604  INFO [main] LogReport:21 - Arranged in  ascending order
+2019-10-10 17:18:56,682  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:18:56,682  INFO [main] LogReport:21 - Arranged in descending order
+2019-10-10 17:19:01,971  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:19:01,971  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:19:01,972  INFO [main] LogReport:21 - Arranged in oldest fist
+2019-10-10 17:19:07,198  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:19:07,199  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:19:07,199  INFO [main] LogReport:21 - Arranged in Most Recent fist
+2019-10-10 17:19:09,736 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-10 17:19:09,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-10 17:19:09,740 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-10 17:19:09,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-10 17:19:09,742 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/David.Easterraj/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
