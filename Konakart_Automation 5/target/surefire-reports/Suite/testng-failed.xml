@@ -7,7 +7,6 @@
         <methods>
           <include name="getReport"/>
           <include name="searchValidation"/>
-          <include name="startReports"/>
           <include name="initializeBrowser"/>
           <include name="getClose"/>
         </methods>

@@ -20,15 +20,15 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class SearchValidation extends BrowserInvoke{
 	LogReport log = new LogReport();
-ExtentReport extrep=new ExtentReport();
-	
+	ExtentReport extrep=new ExtentReport();
 
 
-@Test
+
+	@Test
 	public void searchValidation() throws IOException, InterruptedException, ParseException {
-	    extrep.extentreportStart("searchvalidation");
-		
-	    extrep.printMessage("started extent Report");
+		extrep.extentreportStart("searchvalidation");
+
+		extrep.printMessage("started extent Report");
 		SearchProductsHelper.searchProducts("Games", "The Wheel Of Time");
 		String elem=driver.findElement(By.xpath(PropertiesFileReader.getData("loc.games"))).getText();
 		if(elem.contains("The Wheel Of Time")) {
@@ -36,17 +36,17 @@ ExtentReport extrep=new ExtentReport();
 		}
 		//Negative scenario
 		SearchProductsHelper.searchProducts("Electronics", "Pendrives");
-		
+
 		Boolean negscen=driver.findElement(By.xpath(PropertiesFileReader.getData("loc.unavlble"))).isDisplayed();
-		
+
 		if(negscen==true) {
 			log.info("product unavailability message verified");
 		}
 
-	HeroImage  heroimage = new HeroImage();
+		HeroImage  heroimage = new HeroImage();
 		heroimage.sortingVerification();
-	
-	
+
+
 		extrep.logMessage("Search validation ,Sorting of customer reviews completed");
 	}	
 }
